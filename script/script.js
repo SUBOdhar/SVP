@@ -133,3 +133,7 @@ const createToast = (id) => {
 buttons.forEach(btn => {
     btn.addEventListener("click", () => createToast(btn.id));
 });
+function mail() 
+{
+    window.location = "mailto:aryalsubodh4@gmail.com";
+}
