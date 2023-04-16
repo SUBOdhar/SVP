@@ -30,7 +30,7 @@ body {
     background-color: var(--body-color);
     transition: var(--tran-05);
     overflow-y: scroll;
-      -ms-overflow-style: none;  /* IE and Edge */
+    
      
 
 }
