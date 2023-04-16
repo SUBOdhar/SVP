@@ -24,14 +24,14 @@
     --tran-05: all 0.3s ease;
 }
 
-body::-webkit-scrollbar {
+body {
     min-height: 100vh;
-    display: none;
+ 
     background-color: var(--body-color);
     transition: var(--tran-05);
     overflow-y: scroll;
       -ms-overflow-style: none;  /* IE and Edge */
-      scrollbar-width: none;  /* Firefox */
+     
 
 }
 
