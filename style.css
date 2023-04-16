@@ -29,7 +29,7 @@ body::-webkit-scrollbar {
     display: none;
     background-color: var(--body-color);
     transition: var(--tran-05);
-    
+    overflow-y: scroll;
       -ms-overflow-style: none;  /* IE and Edge */
       scrollbar-width: none;  /* Firefox */
 
