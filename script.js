@@ -25,7 +25,7 @@ modeSwitch.addEventListener("click" , () =>{
         
     }
 });
-// JavaScript code
+// JavaScript code for search
 function search() {
     let input = document.getElementById('searchbar').value
     input=input.toLowerCase();
